@@ -108,4 +108,4 @@ double ReadDataSSI(uint8_t mode)
 
 详细程序放在这里：
 
-https://github.com/BaldnessBaby/MT6701_STM32_HAL 
+[STM32_Lib/MT6701 at master · BaldnessBaby/STM32_Lib (github.com)](https://github.com/BaldnessBaby/STM32_Lib/tree/master/MT6701)
